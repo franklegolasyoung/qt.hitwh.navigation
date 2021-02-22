@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Map">images/Map.png</file>
+        <file alias="p0">images/0.JPEG</file>
+        <file alias="p1">images/1.JPEG</file>
+        <file alias="p2">images/2.JPG</file>
+        <file alias="p3">images/3.JPEG</file>
+        <file alias="p4">images/4.JPEG</file>
+        <file alias="p5">images/5.JPEG</file>
+        <file alias="p6">images/6.JPEG</file>
+        <file alias="p7">images/7.JPEG</file>
+        <file alias="p8">images/8.JPEG</file>
+        <file alias="p9">images/9.JPG</file>
+        <file alias="p10">images/10.JPEG</file>
+        <file alias="hit">images/HIT.JPG</file>
+    </qresource>
+</RCC>

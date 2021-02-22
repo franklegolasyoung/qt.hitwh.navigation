@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Map">Map.jpg</file>
+        <file alias="Data">data.txt</file>
+    </qresource>
+</RCC>
